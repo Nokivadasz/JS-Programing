@@ -1,2 +1,4 @@
-# JS Programing
+Szia!
+
+Ez az első komolyabb projektem!
  
